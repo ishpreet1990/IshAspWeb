@@ -1,0 +1,19 @@
+SerialName = "KumKum"
+SerialTime = 21:30:00
+ReleaseDate = 03/04/2017
+Episode = 50
+
+SerialName = "KumKum"
+SerialTime = 22:00:00
+ReleaseDate = 12/07/2015
+Episode = 250
+
+SerialName = "KumKum"
+SerialTime = 16:00:00
+ReleaseDate = 10/12/2017
+Episode = 40
+
+SerialName = "KumKum"
+SerialTime = 11:30:00
+ReleaseDate = 31/03/2016
+Episode = 150
