@@ -71,7 +71,7 @@ namespace BetterTests
             Assert.IsType(typeof(Serial), result.ViewData.Model);
             Serial serial = (Serial)result.ViewData.Model;
             Assert.Equal("kumkum", serial.SerialName);
-            
+             
         }
     }
 }
